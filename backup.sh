@@ -1,5 +1,6 @@
 #!/bin/bash
 #by kapil jatav
+#this is backup script ant this is very easy
 
 src_dir=/home/kapil/Documents
 tgt_dir=/home/kapil/backup
